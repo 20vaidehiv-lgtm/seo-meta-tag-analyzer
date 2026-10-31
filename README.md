@@ -285,19 +285,6 @@ Potential improvements for future versions:
 
 ---
 
-## 🤝 Contributing
-
-Contributions, suggestions, and ideas are welcome!
-
-If you have an idea to improve this project:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
-
----
-
 Built with curiosity, creativity, and a little help from AI. 💜
 
 ---
