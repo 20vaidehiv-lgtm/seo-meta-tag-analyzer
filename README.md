@@ -234,19 +234,23 @@ Add screenshots of your application here.
 
 ### Homepage
 
-<!-- Add homepage screenshot here -->
+<img width="678" height="429" alt="image" src="https://github.com/user-attachments/assets/33ebef76-33d1-4268-860a-552272906b5c" />
+
 
 ### SEO Analysis Dashboard
 
-<!-- Add dashboard screenshot here -->
+<img width="667" height="454" alt="image" src="https://github.com/user-attachments/assets/b01193c7-a449-42ff-a3dd-62a95fe82478" />
+
 
 ### Google Search Preview
 
-<!-- Add Google preview screenshot here -->
+<img width="672" height="449" alt="image" src="https://github.com/user-attachments/assets/80f7a74d-4088-4c2f-ac93-281525d8201b" />
+
 
 ### Social Media Preview
 
-<!-- Add social media preview screenshot here -->
+<img width="662" height="461" alt="image" src="https://github.com/user-attachments/assets/4f23b88d-f5a6-419b-9774-72914ae0136b" />
+
 
 ---
 
