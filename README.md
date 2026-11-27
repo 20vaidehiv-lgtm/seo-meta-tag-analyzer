@@ -267,18 +267,6 @@ This project aims to:
 
 ---
 
-## 🔮 Future Scope
-
-Potential improvements for future versions:
-
-* PDF SEO report generation.
-* Compare SEO metadata across multiple websites.
-* Advanced SEO validation.
-* More detailed metadata recommendations.
-* Additional search engine preview options.
-
----
-
 ## ⚠️ Important Notes
 
 * SEO scores represent the application's own metadata checks, not actual Google ranking positions.
